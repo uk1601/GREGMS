@@ -271,3 +271,8 @@ The development and implementation of the Energy Grid Management System stand as
 
 In conclusion, the Energy Grid Management System project represents a significant leap forward in addressing critical challenges within the energy landscape. By optimizing energy operations, streamlining processes, and fostering collaboration, this system paves the way for a more sustainable and efficient energy future. As the project concludes, the insights gained and the foundations laid serve as a cornerstone for continued advancements and innovations in energy management practices.
 
+<p align="right"><strong><em>by</em></strong></p>
+<p align="right"><strong><em>Uday Kiran Dasari (udaykiranchintu16@gmail.com)</em></strong></p>
+<p align="right"><strong><em>Mukul Sai Pendem (pendemmukulsai@gmail.com)</em></strong></p>
+<p align="right"><strong><em>Viswanath Raju Indukuri (ivisraju2000@gmail.com)</em></strong></p>
+
